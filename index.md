@@ -3,14 +3,9 @@
 
    <head>
 
-<title> JOY TALES </title>
-
 <link rel="icon" href="favicon.ico"type="image/x-icon"> 
 
-<link href="css joyview tales.css" rel="stylesheet" type="text/css">  	
-
-<script src="JOY TALES.js"></script>
-
+<link href="css joyview tales.css" rel="stylesheet" type="text/css">
    </head>
  
 <body>
@@ -112,8 +107,3 @@ can always be sociable. </em> </p>
  <video width="320" height="240" controls> 
    <source src="IMG_6336.mp4" type="video/mp4">
 your browers does not support the video</video>
-
-   </body>
-
-</html>
-
