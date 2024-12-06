@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-   <head>
-
-<link rel="icon" href="favicon.ico"type="image/x-icon"> 
+   <head> 
 
 <link href="css joyview tales.css" rel="stylesheet" type="text/css">
    </head>
